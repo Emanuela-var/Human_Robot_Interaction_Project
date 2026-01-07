@@ -329,10 +329,3 @@ This experiment demonstrates that **emotional expressiveness in social robots si
 
 This project is developed for academic purposes as part of the Human-Robot Interaction course at Università degli Studi di Napoli Federico II.
 
----
-
-<div align="center">
-
-**⭐ If you find this project useful, please consider giving it a star! ⭐**
-
-</div>
